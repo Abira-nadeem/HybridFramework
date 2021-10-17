@@ -1,0 +1,11 @@
+
+<suite name = "hybrid">
+    <test name ="test">
+         <classes>
+        <class name = "testcases.testcase1"/>
+
+        </classes>
+
+
+</test>
+</suite>
