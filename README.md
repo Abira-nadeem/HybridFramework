@@ -6,7 +6,7 @@
 
 --- INTRODUCTION ---
 
-This project is used to present UI automation of a simple login test by using a selenium automation framwork that is "hyrbid framework" using page object model. As 
+This project is used to present UI automation of a simple login test by using a selenium automation framework that is "hyrbid framework" using page object model. As 
 per the page object model there is a seperate class for the test case, a seperate base class and utitlities class,properties.config.
 
 Testbase class -- 
